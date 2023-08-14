@@ -149,7 +149,7 @@ To compare two values, you use a comparison operator.The following table shows t
 
                 priorities is! >>&&&>>||
 
-nullish coalescing operator=>
+Nullish coalescing operator=>
 
                 ES2020 introduced the nullish coalescing operator denoted by the double question marks(??).The nullish coalescing operator is a logical operator that accepts two values:
 
@@ -160,7 +160,7 @@ nullish coalescing operator=>
                 const age = null ?? 28;
                 console.log(age);//28
 
-exponentiation operator=>
+Exponentiation operator=>
 
                 ECMAScript 2016 provided an alternative way to get a base to the exponent power by using the exponentiation operator( **) with the following syntax:
 
@@ -168,4 +168,5 @@ exponentiation operator=>
 
                 let resul = 2 ** 2;
                 console.log(resul); //4    
+
 */
