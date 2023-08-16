@@ -1,5 +1,5 @@
 /****************************************ARRAY*****************************************************
-    array in javascript is a datastructure tha store an orderd list of element . it can hold element of any data types  including Number,string and obj even other arrays 
+    Array in javascript is a datastructure tha store an orderd list of element . it can hold element of any data types  including Number,string and obj even other arrays 
 
 
                   let Arr1=['history','hindi','marathi','physics'];
