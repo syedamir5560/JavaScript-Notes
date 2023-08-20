@@ -13,3 +13,5 @@ Feel free to explore the content and use these notes to enhance your understandi
 5) [String](https://github.com/syedamir5560/JavaScript-Notes/blob/main/string_manipulation.js)
 6) [Control flow](https://github.com/syedamir5560/JavaScript-Notes/blob/main/control-flow.js)
 7) [Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/functions.js)
+8) [Advance-Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/Advance-function.js)
+
