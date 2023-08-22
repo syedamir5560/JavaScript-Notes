@@ -15,4 +15,4 @@ Feel free to explore the content and use these notes to enhance your understandi
 7) [Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/functions.js)
 8) [Advance-Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/Advance-function.js)
 9) [Loops](https://github.com/syedamir5560/JavaScript-Notes/blob/main/loops.js)
-10)[Objects](https://github.com/syedamir5560/JavaScript-Notes/blob/main/loops.js)
+10) [Objects](https://github.com/syedamir5560/JavaScript-Notes/blob/main/loops.js)
