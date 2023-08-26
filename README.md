@@ -17,3 +17,8 @@ Feel free to explore the content and use these notes to enhance your understandi
 9) [Advance-Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/Advance-function.js)
 10) [Objects](https://github.com/syedamir5560/JavaScript-Notes/blob/main/loops.js)
 11) [This keyword](https://github.com/syedamir5560/JavaScript-Notes/blob/main/thisKeyword.js)
+
+## Advance Concepts
+
+1) [Advance-objects](https://github.com/syedamir5560/JavaScript-Notes/blob/main/object-datatypes.js)
+
