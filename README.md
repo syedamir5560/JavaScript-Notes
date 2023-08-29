@@ -22,3 +22,4 @@ Feel free to explore the content and use these notes to enhance your understandi
 1) [Advance-Functions](https://github.com/syedamir5560/JavaScript-Notes/blob/main/Advance-function.js)
 2) [Advance_Object](https://github.com/syedamir5560/JavaScript-Notes/blob/main/Advance_object.js)
 3) [Callback-&-Promisses](https://github.com/syedamir5560/JavaScript-Notes/blob/main/callback-%26-promisses.js)
+4) [javascript-runtime](https://github.com/syedamir5560/JavaScript-Notes/blob/main/javascript_runtime.js)
