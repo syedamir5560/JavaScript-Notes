@@ -24,4 +24,4 @@ Feel free to explore the content and use these notes to enhance your understandi
 3) [Callback-&-Promisses](https://github.com/syedamir5560/JavaScript-Notes/blob/main/callback-%26-promisses.js)
 4) [javascript-runtime](https://github.com/syedamir5560/JavaScript-Notes/blob/main/javascript_runtime.js)
 
-5) [Document-object-model]()
+5) [Document-object-model](https://github.com/syedamir5560/JavaScript-Notes/blob/main/DOM.js)
