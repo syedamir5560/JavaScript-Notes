@@ -3,7 +3,7 @@
 ## Variables
 
 A variable is a label that references a value like a number or string. Before using a variable, you need to declare it.
-
+A JavaScript variable is simply a name of storage location.
 To declare a variable, you use the `var` keyword followed by the variable name as follows:
 
 ```javascript
